@@ -1,6 +1,7 @@
 {
-    "short_name": "Ginko Bus",
     "name": "Ginko Bus PWA",
+    "short_name": "Ginko Bus",
+    "description": "Progressive Web App which allow you to consult the Ginko Bus Schedule",
     "icons": [
         {
             "src": "/icons/maskable_icon.png",
