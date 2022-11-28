@@ -22,7 +22,7 @@ self.addEventListener('install', (e) => {
     e.waitUntil((async () => {
         const cache = await caches.open(cacheName);
         console.log('[Service Worker] Caching all: app shell and content');
-        await cache.addAll(appFiles);
+        await cache.add(appFiles);
     })());
 });
 
