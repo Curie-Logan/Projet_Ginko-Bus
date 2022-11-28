@@ -4,7 +4,7 @@
     "description": "Progressive Web App which allow you to consult the Ginko Bus Schedule",
     "icons": [
         {
-            "src": "/icons/maskable_icon.png",
+            "src": "icons/maskable_icon.png",
             "type": "image/png",
             "sizes": "196x196",
             "purpose": "maskable" 
